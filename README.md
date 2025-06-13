@@ -4,10 +4,9 @@
 
 Sidharth Bindumol Sabu | SID: 530801229 | unikey: sbnin0640 individual component for creative coding major projects
 
+### Concept: Time Interval Based
 
-/// Concept: Time Interval Based
-
-//// Simple and Automatic Experience:
+#### Simple and Automatic Experience:
 
 - Load the page and the animation will begin immediately
 - The animation is fully automatic - no user interaction required
@@ -17,7 +16,7 @@ Sidharth Bindumol Sabu | SID: 530801229 | unikey: sbnin0640 individual component
 - The animation adapts to your screen size automatically 
 - Resize your browser window to see the canvas adjust dynamically
 
-//// What to Expect:
+#### What to Expect:
 
 - The animation starts with one circle at the center of the screen
 - Every second, a new circle appears at the location of a randomly selected existing circle
