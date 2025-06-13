@@ -2,6 +2,8 @@
 responsive design example for the animation of the circles
 Following the same and keeping the existing provided code in the lecture */
 
+//more abourt the code in the readme file
+
 /* This sketch creates animated circles at a time interval of every second that move around the canvas 
 and display different patterns (rings, dots, or a combination of both). */
 
