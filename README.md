@@ -1,8 +1,14 @@
 # Creative_Coding_Major_Project_Individual_Component_Sidharth_sbin0640
 
-/// Sid's Individual component
+## Sid's Individual component
+
+---
 
 Sidharth Bindumol Sabu | SID: 530801229 | unikey: sbnin0640 individual component for creative coding major projects
+
+---
+
+*For the tutor: Please not that for my individual component I had to create a new repository as I wasn't able to fork my repository*
 
 ### Concept: Time Interval Based
 
